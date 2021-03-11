@@ -7,6 +7,3 @@ An application that allows users to create new task for a better work flow. User
 
 ## Deployed application link
  https://agustinxmtz.github.io/taskmaster-pro/
-
-# taskmaster-pro
-https://agustinxmtz.github.io/taskmaster-pro/
